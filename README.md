@@ -1,4 +1,4 @@
-**Brix Project - A web application using React**
+# Brix Project - A web application using React
 
 This is the backend implementation for the project using PostgreSQL & Express.
 
